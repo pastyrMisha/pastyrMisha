@@ -53,5 +53,3 @@ Full-stack developer
 
 ![pastyrMisha's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pastyrMisha&theme=tokyonight)
 
-==========================================================================================================================================
-
