@@ -7,6 +7,7 @@ Full-stack developer
 --------------------
 - [Twitter](https://twitter.com/pastyrMisha)
 -  You can find more information [about me](https://zvendinov.ru/) on my website.
+
 ==========================================================================================================================================
 ### Backend and Database
 
