@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Full-stack developer
 --------------------
-* You can find more information [about me](https://zvendinov.ru/) on my website.
+You can find more information [about me](https://zvendinov.ru/) on my website.
 
 ### Backend and Database
 
