@@ -51,6 +51,7 @@ Full-stack developer
 
 <p align="left"> <a href="https://discord.com/users/pastyrMisha" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/pastyrMisha" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/pastyrMisha" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
---------------------
+
 ![pastyrMisha's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pastyrMisha&theme=tokyonight)
+--------------------
 
